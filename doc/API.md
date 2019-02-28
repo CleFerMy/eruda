@@ -27,7 +27,7 @@ eruda.init({
 
 ## destroy
 
-Destory eruda. 
+Destroy eruda. 
 
 Note: You can call **init** method again after destruction.
 
